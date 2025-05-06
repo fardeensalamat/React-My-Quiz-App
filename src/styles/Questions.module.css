@@ -1,0 +1,36 @@
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f4f4f4;
+  }
+  
+  li:hover {
+    background-color: #ddd;
+  }
+
+  .button{
+    background-color: #0dbc72;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .button-disable{
+    padding: 10px;
+    background-color: rgb(255, 142, 142);
+    cursor: not-allowed;
+  }
+
+  @media (orientation: landscape) {
+    .QuestionWrapper {
+      margin-top: 2dvh;
+      padding: 2rem 3rem;
+      padding-bottom: 5rem;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+.intro {
+    margin-top: 10vh;
+    text-align: justify;
+    background-color: #f9f9f9; 
+    padding: 50px;
+    color: #444;
+  }
+
+.intro p {
+
+    color: #222;
+  }
+  
